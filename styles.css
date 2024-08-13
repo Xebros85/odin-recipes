@@ -43,6 +43,14 @@ ul, p {
     padding: 15px;
 }
 
+ul {
+    box-sizing: border-box;
+    width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+}
+
 .ingred {
     font-size: 24px;
     text-align: center;
